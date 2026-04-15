@@ -1,81 +1,111 @@
 # 👋 Welcome to Our Team
 
-🚀 We are a passionate development team building modern mobile apps and beautiful UI/UX designs.
+🚀 We are a passionate development team focused on building modern mobile applications, beautiful UI/UX designs, and scalable digital solutions.
+
+We specialize in Android, iOS, UI/UX Design, and Web Development.
 
 ---
 
-## 👨‍💻 About Our Team
+# 👨‍💻 About Our Team
 
-We work as a team to build high-quality applications and websites.
-
-### 👤 Team Members
-Vaidehi Virani
-Arpan Virani
-Bhavin Mulani
-Parth Kothiya
-Sagar Sorathiya
-Nishant Savani
-
-#### 🧑‍💻 Android Developer & UI/UX Designer
-- Android App Development
-- UI/UX Design (Figma)
-- App UI Implementation
-
-#### 👨‍💻 Full Stack / iOS / Web Developer
-- iOS App Development
-- WordPress Development
-- Web Development
-- Backend Development
+We work together to create high-quality applications with modern design and seamless user experience. Our team focuses on performance, clean UI, and user-friendly solutions.
 
 ---
 
-## 🛠️ Our Skills
+# 👥 Team Members
 
-### 📱 Mobile Development
+- 👩‍💻 Vaidehi Virani  
+- 👨‍💻 Arpan Virani  
+- 👨‍💻 Bhavin Mulani  
+- 👨‍💻 Parth Kothiya  
+- 👨‍💻 Sagar Sorathiya  
+- 👨‍💻 Nishant Savani  
+
+---
+
+# 💼 Our Expertise
+
+## 📱 Mobile Development
 - Android (Java / Kotlin)
 - iOS (Swift)
+- Cross Platform Solutions
 
-### 🎨 UI/UX Design
+## 🎨 UI/UX Design
 - Figma
 - UI Design
-- UX Design
+- UX Research
 - Wireframing
 - Prototyping
 
-### 🌐 Web Development
+## 🌐 Web Development
 - WordPress
 - HTML
 - CSS
 - JavaScript
 
----
-
-## 🚀 Our Projects
-
-LovelooP:Dating & Chat App (Android)
-ScanCab: PDF Document Scanner (Android)
-ScanCab (iOS)
-Speak & Translate All Language
-Khata Master: Udhar Hisab Book
-Filejet 
-
-
-## 🎯 Our Goals
-
-- Build Modern Mobile Apps
-- Create Beautiful UI Designs
-- Deliver High Quality Projects
-- Work With Clients Worldwide
+## ⚙️ Development Skills
+- App UI Implementation
+- Backend Integration
+- API Integration
+- Performance Optimization
 
 ---
 
-## 📫 Contact Us
+# 🚀 Our Projects
 
-- GitHub:https://github.com/vaidehi9055
-- Email: loveloop9055@gmail.com
-  
+### ❤️ LoveLoopP — Dating & Chat App
+Modern dating app to meet new people and build meaningful relationships.
+
+### 📄 ScanCab — PDF Document Scanner (Android)
+Smart document scanner with PDF export and sharing.
+
+### 🍎 ScanCab — iOS
+iOS version of ScanCab document scanner.
+
+### 🌍 Speak & Translate All Languages
+Voice and text translator supporting multiple languages.
+
+### 📊 Khata Master — Udhar Hisab Book
+Digital khata book for managing credit, debit and transactions.
+
+### ⚡ FileJet — Offline File Transfer
+Fast and secure offline file sharing solution.
+
 ---
 
-## ⚡ Fun Fact
+# 🎯 Our Goals
 
-We love building modern apps & clean UI designs 🚀
+- 🚀 Build Modern Mobile Apps  
+- 🎨 Create Beautiful UI/UX Designs  
+- 🌍 Deliver Global Quality Products  
+- 🤝 Work With Clients Worldwide  
+- 📱 Build Scalable Applications  
+
+---
+
+# 🛠️ Tools & Technologies
+
+![Android](https://img.shields.io/badge/Android-Developer-green?style=for-the-badge&logo=android)
+![Kotlin](https://img.shields.io/badge/Kotlin-Developer-blue?style=for-the-badge&logo=kotlin)
+![Swift](https://img.shields.io/badge/iOS-Swift-orange?style=for-the-badge&logo=swift)
+![Figma](https://img.shields.io/badge/Figma-Design-red?style=for-the-badge&logo=figma)
+![WordPress](https://img.shields.io/badge/WordPress-Developer-blue?style=for-the-badge&logo=wordpress)
+
+---
+
+# 📊 GitHub Stats
+
+![Team GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaidehi9055&show_icons=true&theme=tokyonight)
+
+---
+
+# 📫 Contact Us
+
+- GitHub: https://github.com/vaidehi9055  
+- Email: loveloop9055@gmail.com  
+- Linkedin: https://www.linkedin.com/in/vaidehi-dholariya-59a742172?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+---
+
+# ⚡ Fun Fact
+
+We love building modern apps, clean UI, and powerful user experiences 🚀
